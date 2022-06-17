@@ -2,7 +2,7 @@
 /*
  * Dasturchi: Firdavs jurayev (https://t.me/firdavs_officall)
  */
-define('API_KEY', "5055126324:AAGAIRVmo1yqTNNnnqVaFp7Uf8j4xRjvkzY"); 
+define('API_KEY', "5142440539:AAFmd6hr6G83IoUpyI3uGZQPG4-3gD_0y-I"); 
 
 $botname = "MajburiyAbot";///BOT NAME 
 
