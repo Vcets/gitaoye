@@ -1,6 +1,6 @@
 ﻿<?php
-$admin = 'id raqamiz';
-$token = 'token maydoni';
+$admin = '1290413886';
+$token = '5488062375:AAH9k3zhOY-rIH4vVBlvwzmO-HSgMLJBzE8';
 //@PHP_New kanali foydalunuvchilari uchun maxsus sovg'a
 function bot($method,$datas=[]){
 global $token;
